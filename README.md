@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Pranav Suryawanshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Devloper%20%7C%20AI%20Automation%20%7C%20App%20Devloper&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Pranav%20Suryawanshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Devloper%20%7C%20AI%20Automation%20%7C%20App%20Devloper&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
@@ -7,7 +7,7 @@
   <img src="https://streak-stats.demolab.com/?user=Pranavms09&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Pranavms09's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Pranavms09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Pranav's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Pranavms09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Pranav Suryawanshi's GitHub Trophies" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -20,16 +20,16 @@
 ## 🔗 Connect with Me
 <p align="left"> 
 <a href="https://www.linkedin.com/in/pranavms09/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Pranav's LinkedIn"/>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Pranav Suryawanshi's LinkedIn"/>
 </a> 
 <a href="https://x.com/Pranavms09" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Pranav's Twitter"/>
+<img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Pranav Suryawanshi's Twitter"/>
 </a> 
 <a href="https://www.youtube.com/@Codes_And_Bugs" target="_blank">
-<img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Pranav's YouTube"/>
+<img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Pranav Suryawanshi's YouTube"/>
 </a> 
 <a href="mailto:pranavms09@gmail.com" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Pranav's Email"/>
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Pranav Suryawanshi's Email"/>
 </a> 
 <a href="https://pranavms09.github.io/Portfolio/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/>
